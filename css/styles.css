@@ -31,7 +31,7 @@ body{
 button{
     background-color: black;
     color:white;
-    width:80px;
+    width:150px;
     height:30px;
     border-radius: 10%;
     transition: 1s;
@@ -41,8 +41,4 @@ button:hover{
     cursor: pointer;
     background-color: white;
     color:black;
-}
-
-input{
-    width:180px
 }
